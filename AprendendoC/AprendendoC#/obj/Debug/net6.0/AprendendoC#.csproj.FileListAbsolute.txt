@@ -1,0 +1,14 @@
+C:\Users\dtiDigital\Videos\AprendendoC#\AprendendoC#\bin\Debug\net6.0\AprendendoC#.exe
+C:\Users\dtiDigital\Videos\AprendendoC#\AprendendoC#\bin\Debug\net6.0\AprendendoC#.deps.json
+C:\Users\dtiDigital\Videos\AprendendoC#\AprendendoC#\bin\Debug\net6.0\AprendendoC#.runtimeconfig.json
+C:\Users\dtiDigital\Videos\AprendendoC#\AprendendoC#\bin\Debug\net6.0\AprendendoC#.dll
+C:\Users\dtiDigital\Videos\AprendendoC#\AprendendoC#\bin\Debug\net6.0\AprendendoC#.pdb
+C:\Users\dtiDigital\Videos\AprendendoC#\AprendendoC#\obj\Debug\net6.0\AprendendoC#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dtiDigital\Videos\AprendendoC#\AprendendoC#\obj\Debug\net6.0\AprendendoC#.AssemblyInfoInputs.cache
+C:\Users\dtiDigital\Videos\AprendendoC#\AprendendoC#\obj\Debug\net6.0\AprendendoC#.AssemblyInfo.cs
+C:\Users\dtiDigital\Videos\AprendendoC#\AprendendoC#\obj\Debug\net6.0\AprendendoC#.csproj.CoreCompileInputs.cache
+C:\Users\dtiDigital\Videos\AprendendoC#\AprendendoC#\obj\Debug\net6.0\AprendendoC#.dll
+C:\Users\dtiDigital\Videos\AprendendoC#\AprendendoC#\obj\Debug\net6.0\refint\AprendendoC#.dll
+C:\Users\dtiDigital\Videos\AprendendoC#\AprendendoC#\obj\Debug\net6.0\AprendendoC#.pdb
+C:\Users\dtiDigital\Videos\AprendendoC#\AprendendoC#\obj\Debug\net6.0\AprendendoC#.genruntimeconfig.cache
+C:\Users\dtiDigital\Videos\AprendendoC#\AprendendoC#\obj\Debug\net6.0\ref\AprendendoC#.dll

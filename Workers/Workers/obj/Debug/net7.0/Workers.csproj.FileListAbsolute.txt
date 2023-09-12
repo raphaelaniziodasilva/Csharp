@@ -1,0 +1,4 @@
+C:\Users\dtiDigital\Videos\Workers\Workers\obj\Debug\net7.0\Workers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dtiDigital\Videos\Workers\Workers\obj\Debug\net7.0\Workers.AssemblyInfoInputs.cache
+C:\Users\dtiDigital\Videos\Workers\Workers\obj\Debug\net7.0\Workers.AssemblyInfo.cs
+C:\Users\dtiDigital\Videos\Workers\Workers\obj\Debug\net7.0\Workers.csproj.CoreCompileInputs.cache

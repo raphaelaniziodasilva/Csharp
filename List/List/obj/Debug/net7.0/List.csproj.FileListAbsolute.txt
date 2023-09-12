@@ -1,0 +1,14 @@
+C:\Users\dtiDigital\Videos\List\List\bin\Debug\net7.0\List.exe
+C:\Users\dtiDigital\Videos\List\List\bin\Debug\net7.0\List.deps.json
+C:\Users\dtiDigital\Videos\List\List\bin\Debug\net7.0\List.runtimeconfig.json
+C:\Users\dtiDigital\Videos\List\List\bin\Debug\net7.0\List.dll
+C:\Users\dtiDigital\Videos\List\List\bin\Debug\net7.0\List.pdb
+C:\Users\dtiDigital\Videos\List\List\obj\Debug\net7.0\List.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dtiDigital\Videos\List\List\obj\Debug\net7.0\List.AssemblyInfoInputs.cache
+C:\Users\dtiDigital\Videos\List\List\obj\Debug\net7.0\List.AssemblyInfo.cs
+C:\Users\dtiDigital\Videos\List\List\obj\Debug\net7.0\List.csproj.CoreCompileInputs.cache
+C:\Users\dtiDigital\Videos\List\List\obj\Debug\net7.0\List.dll
+C:\Users\dtiDigital\Videos\List\List\obj\Debug\net7.0\refint\List.dll
+C:\Users\dtiDigital\Videos\List\List\obj\Debug\net7.0\List.pdb
+C:\Users\dtiDigital\Videos\List\List\obj\Debug\net7.0\List.genruntimeconfig.cache
+C:\Users\dtiDigital\Videos\List\List\obj\Debug\net7.0\ref\List.dll

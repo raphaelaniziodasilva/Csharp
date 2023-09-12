@@ -1,0 +1,14 @@
+C:\Users\dtiDigital\Videos\HerancaExResolvido\HerancaExResolvido\bin\Debug\net7.0\HerancaExResolvido.exe
+C:\Users\dtiDigital\Videos\HerancaExResolvido\HerancaExResolvido\bin\Debug\net7.0\HerancaExResolvido.deps.json
+C:\Users\dtiDigital\Videos\HerancaExResolvido\HerancaExResolvido\bin\Debug\net7.0\HerancaExResolvido.runtimeconfig.json
+C:\Users\dtiDigital\Videos\HerancaExResolvido\HerancaExResolvido\bin\Debug\net7.0\HerancaExResolvido.dll
+C:\Users\dtiDigital\Videos\HerancaExResolvido\HerancaExResolvido\bin\Debug\net7.0\HerancaExResolvido.pdb
+C:\Users\dtiDigital\Videos\HerancaExResolvido\HerancaExResolvido\obj\Debug\net7.0\HerancaExResolvido.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dtiDigital\Videos\HerancaExResolvido\HerancaExResolvido\obj\Debug\net7.0\HerancaExResolvido.AssemblyInfoInputs.cache
+C:\Users\dtiDigital\Videos\HerancaExResolvido\HerancaExResolvido\obj\Debug\net7.0\HerancaExResolvido.AssemblyInfo.cs
+C:\Users\dtiDigital\Videos\HerancaExResolvido\HerancaExResolvido\obj\Debug\net7.0\HerancaExResolvido.csproj.CoreCompileInputs.cache
+C:\Users\dtiDigital\Videos\HerancaExResolvido\HerancaExResolvido\obj\Debug\net7.0\HerancaExResolvido.dll
+C:\Users\dtiDigital\Videos\HerancaExResolvido\HerancaExResolvido\obj\Debug\net7.0\refint\HerancaExResolvido.dll
+C:\Users\dtiDigital\Videos\HerancaExResolvido\HerancaExResolvido\obj\Debug\net7.0\HerancaExResolvido.pdb
+C:\Users\dtiDigital\Videos\HerancaExResolvido\HerancaExResolvido\obj\Debug\net7.0\HerancaExResolvido.genruntimeconfig.cache
+C:\Users\dtiDigital\Videos\HerancaExResolvido\HerancaExResolvido\obj\Debug\net7.0\ref\HerancaExResolvido.dll

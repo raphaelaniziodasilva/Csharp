@@ -1,0 +1,14 @@
+C:\Users\dtiDigital\Videos\ExercicioC#\ExercicioC#\bin\Debug\net6.0\ExercicioC#.exe
+C:\Users\dtiDigital\Videos\ExercicioC#\ExercicioC#\bin\Debug\net6.0\ExercicioC#.deps.json
+C:\Users\dtiDigital\Videos\ExercicioC#\ExercicioC#\bin\Debug\net6.0\ExercicioC#.runtimeconfig.json
+C:\Users\dtiDigital\Videos\ExercicioC#\ExercicioC#\bin\Debug\net6.0\ExercicioC#.dll
+C:\Users\dtiDigital\Videos\ExercicioC#\ExercicioC#\bin\Debug\net6.0\ExercicioC#.pdb
+C:\Users\dtiDigital\Videos\ExercicioC#\ExercicioC#\obj\Debug\net6.0\ExercicioC#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dtiDigital\Videos\ExercicioC#\ExercicioC#\obj\Debug\net6.0\ExercicioC#.AssemblyInfoInputs.cache
+C:\Users\dtiDigital\Videos\ExercicioC#\ExercicioC#\obj\Debug\net6.0\ExercicioC#.AssemblyInfo.cs
+C:\Users\dtiDigital\Videos\ExercicioC#\ExercicioC#\obj\Debug\net6.0\ExercicioC#.csproj.CoreCompileInputs.cache
+C:\Users\dtiDigital\Videos\ExercicioC#\ExercicioC#\obj\Debug\net6.0\ExercicioC#.dll
+C:\Users\dtiDigital\Videos\ExercicioC#\ExercicioC#\obj\Debug\net6.0\refint\ExercicioC#.dll
+C:\Users\dtiDigital\Videos\ExercicioC#\ExercicioC#\obj\Debug\net6.0\ExercicioC#.pdb
+C:\Users\dtiDigital\Videos\ExercicioC#\ExercicioC#\obj\Debug\net6.0\ExercicioC#.genruntimeconfig.cache
+C:\Users\dtiDigital\Videos\ExercicioC#\ExercicioC#\obj\Debug\net6.0\ref\ExercicioC#.dll

@@ -1,0 +1,14 @@
+C:\Users\dtiDigital\Videos\Retangulos\Retangulos\bin\Debug\net7.0\Retangulos.exe
+C:\Users\dtiDigital\Videos\Retangulos\Retangulos\bin\Debug\net7.0\Retangulos.deps.json
+C:\Users\dtiDigital\Videos\Retangulos\Retangulos\bin\Debug\net7.0\Retangulos.runtimeconfig.json
+C:\Users\dtiDigital\Videos\Retangulos\Retangulos\bin\Debug\net7.0\Retangulos.dll
+C:\Users\dtiDigital\Videos\Retangulos\Retangulos\bin\Debug\net7.0\Retangulos.pdb
+C:\Users\dtiDigital\Videos\Retangulos\Retangulos\obj\Debug\net7.0\Retangulos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dtiDigital\Videos\Retangulos\Retangulos\obj\Debug\net7.0\Retangulos.AssemblyInfoInputs.cache
+C:\Users\dtiDigital\Videos\Retangulos\Retangulos\obj\Debug\net7.0\Retangulos.AssemblyInfo.cs
+C:\Users\dtiDigital\Videos\Retangulos\Retangulos\obj\Debug\net7.0\Retangulos.csproj.CoreCompileInputs.cache
+C:\Users\dtiDigital\Videos\Retangulos\Retangulos\obj\Debug\net7.0\Retangulos.dll
+C:\Users\dtiDigital\Videos\Retangulos\Retangulos\obj\Debug\net7.0\refint\Retangulos.dll
+C:\Users\dtiDigital\Videos\Retangulos\Retangulos\obj\Debug\net7.0\Retangulos.pdb
+C:\Users\dtiDigital\Videos\Retangulos\Retangulos\obj\Debug\net7.0\Retangulos.genruntimeconfig.cache
+C:\Users\dtiDigital\Videos\Retangulos\Retangulos\obj\Debug\net7.0\ref\Retangulos.dll

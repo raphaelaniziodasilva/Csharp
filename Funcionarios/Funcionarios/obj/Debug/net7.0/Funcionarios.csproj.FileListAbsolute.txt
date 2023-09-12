@@ -1,0 +1,14 @@
+C:\Users\dtiDigital\Videos\Funcionarios\Funcionarios\bin\Debug\net7.0\Funcionarios.exe
+C:\Users\dtiDigital\Videos\Funcionarios\Funcionarios\bin\Debug\net7.0\Funcionarios.deps.json
+C:\Users\dtiDigital\Videos\Funcionarios\Funcionarios\bin\Debug\net7.0\Funcionarios.runtimeconfig.json
+C:\Users\dtiDigital\Videos\Funcionarios\Funcionarios\bin\Debug\net7.0\Funcionarios.dll
+C:\Users\dtiDigital\Videos\Funcionarios\Funcionarios\bin\Debug\net7.0\Funcionarios.pdb
+C:\Users\dtiDigital\Videos\Funcionarios\Funcionarios\obj\Debug\net7.0\Funcionarios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dtiDigital\Videos\Funcionarios\Funcionarios\obj\Debug\net7.0\Funcionarios.AssemblyInfoInputs.cache
+C:\Users\dtiDigital\Videos\Funcionarios\Funcionarios\obj\Debug\net7.0\Funcionarios.AssemblyInfo.cs
+C:\Users\dtiDigital\Videos\Funcionarios\Funcionarios\obj\Debug\net7.0\Funcionarios.csproj.CoreCompileInputs.cache
+C:\Users\dtiDigital\Videos\Funcionarios\Funcionarios\obj\Debug\net7.0\Funcionarios.dll
+C:\Users\dtiDigital\Videos\Funcionarios\Funcionarios\obj\Debug\net7.0\refint\Funcionarios.dll
+C:\Users\dtiDigital\Videos\Funcionarios\Funcionarios\obj\Debug\net7.0\Funcionarios.pdb
+C:\Users\dtiDigital\Videos\Funcionarios\Funcionarios\obj\Debug\net7.0\Funcionarios.genruntimeconfig.cache
+C:\Users\dtiDigital\Videos\Funcionarios\Funcionarios\obj\Debug\net7.0\ref\Funcionarios.dll

@@ -1,0 +1,14 @@
+C:\Users\dtiDigital\Videos\SwitchCase\SwitchCase\bin\Debug\net7.0\SwitchCase.exe
+C:\Users\dtiDigital\Videos\SwitchCase\SwitchCase\bin\Debug\net7.0\SwitchCase.deps.json
+C:\Users\dtiDigital\Videos\SwitchCase\SwitchCase\bin\Debug\net7.0\SwitchCase.runtimeconfig.json
+C:\Users\dtiDigital\Videos\SwitchCase\SwitchCase\bin\Debug\net7.0\SwitchCase.dll
+C:\Users\dtiDigital\Videos\SwitchCase\SwitchCase\bin\Debug\net7.0\SwitchCase.pdb
+C:\Users\dtiDigital\Videos\SwitchCase\SwitchCase\obj\Debug\net7.0\SwitchCase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dtiDigital\Videos\SwitchCase\SwitchCase\obj\Debug\net7.0\SwitchCase.AssemblyInfoInputs.cache
+C:\Users\dtiDigital\Videos\SwitchCase\SwitchCase\obj\Debug\net7.0\SwitchCase.AssemblyInfo.cs
+C:\Users\dtiDigital\Videos\SwitchCase\SwitchCase\obj\Debug\net7.0\SwitchCase.csproj.CoreCompileInputs.cache
+C:\Users\dtiDigital\Videos\SwitchCase\SwitchCase\obj\Debug\net7.0\SwitchCase.dll
+C:\Users\dtiDigital\Videos\SwitchCase\SwitchCase\obj\Debug\net7.0\refint\SwitchCase.dll
+C:\Users\dtiDigital\Videos\SwitchCase\SwitchCase\obj\Debug\net7.0\SwitchCase.pdb
+C:\Users\dtiDigital\Videos\SwitchCase\SwitchCase\obj\Debug\net7.0\SwitchCase.genruntimeconfig.cache
+C:\Users\dtiDigital\Videos\SwitchCase\SwitchCase\obj\Debug\net7.0\ref\SwitchCase.dll

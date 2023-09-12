@@ -1,0 +1,14 @@
+C:\Users\dtiDigital\Videos\Fintech\Fintech\bin\Debug\net7.0\Fintech.exe
+C:\Users\dtiDigital\Videos\Fintech\Fintech\bin\Debug\net7.0\Fintech.deps.json
+C:\Users\dtiDigital\Videos\Fintech\Fintech\bin\Debug\net7.0\Fintech.runtimeconfig.json
+C:\Users\dtiDigital\Videos\Fintech\Fintech\bin\Debug\net7.0\Fintech.dll
+C:\Users\dtiDigital\Videos\Fintech\Fintech\bin\Debug\net7.0\Fintech.pdb
+C:\Users\dtiDigital\Videos\Fintech\Fintech\obj\Debug\net7.0\Fintech.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dtiDigital\Videos\Fintech\Fintech\obj\Debug\net7.0\Fintech.AssemblyInfoInputs.cache
+C:\Users\dtiDigital\Videos\Fintech\Fintech\obj\Debug\net7.0\Fintech.AssemblyInfo.cs
+C:\Users\dtiDigital\Videos\Fintech\Fintech\obj\Debug\net7.0\Fintech.csproj.CoreCompileInputs.cache
+C:\Users\dtiDigital\Videos\Fintech\Fintech\obj\Debug\net7.0\Fintech.dll
+C:\Users\dtiDigital\Videos\Fintech\Fintech\obj\Debug\net7.0\refint\Fintech.dll
+C:\Users\dtiDigital\Videos\Fintech\Fintech\obj\Debug\net7.0\Fintech.pdb
+C:\Users\dtiDigital\Videos\Fintech\Fintech\obj\Debug\net7.0\Fintech.genruntimeconfig.cache
+C:\Users\dtiDigital\Videos\Fintech\Fintech\obj\Debug\net7.0\ref\Fintech.dll

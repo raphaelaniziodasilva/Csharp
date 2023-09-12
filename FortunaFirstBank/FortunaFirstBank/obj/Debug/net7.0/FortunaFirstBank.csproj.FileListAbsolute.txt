@@ -1,0 +1,14 @@
+C:\Users\dtiDigital\Videos\FortunaFirstBank\FortunaFirstBank\bin\Debug\net7.0\FortunaFirstBank.exe
+C:\Users\dtiDigital\Videos\FortunaFirstBank\FortunaFirstBank\bin\Debug\net7.0\FortunaFirstBank.deps.json
+C:\Users\dtiDigital\Videos\FortunaFirstBank\FortunaFirstBank\bin\Debug\net7.0\FortunaFirstBank.runtimeconfig.json
+C:\Users\dtiDigital\Videos\FortunaFirstBank\FortunaFirstBank\bin\Debug\net7.0\FortunaFirstBank.dll
+C:\Users\dtiDigital\Videos\FortunaFirstBank\FortunaFirstBank\bin\Debug\net7.0\FortunaFirstBank.pdb
+C:\Users\dtiDigital\Videos\FortunaFirstBank\FortunaFirstBank\obj\Debug\net7.0\FortunaFirstBank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dtiDigital\Videos\FortunaFirstBank\FortunaFirstBank\obj\Debug\net7.0\FortunaFirstBank.AssemblyInfoInputs.cache
+C:\Users\dtiDigital\Videos\FortunaFirstBank\FortunaFirstBank\obj\Debug\net7.0\FortunaFirstBank.AssemblyInfo.cs
+C:\Users\dtiDigital\Videos\FortunaFirstBank\FortunaFirstBank\obj\Debug\net7.0\FortunaFirstBank.csproj.CoreCompileInputs.cache
+C:\Users\dtiDigital\Videos\FortunaFirstBank\FortunaFirstBank\obj\Debug\net7.0\FortunaFirstBank.dll
+C:\Users\dtiDigital\Videos\FortunaFirstBank\FortunaFirstBank\obj\Debug\net7.0\refint\FortunaFirstBank.dll
+C:\Users\dtiDigital\Videos\FortunaFirstBank\FortunaFirstBank\obj\Debug\net7.0\FortunaFirstBank.pdb
+C:\Users\dtiDigital\Videos\FortunaFirstBank\FortunaFirstBank\obj\Debug\net7.0\FortunaFirstBank.genruntimeconfig.cache
+C:\Users\dtiDigital\Videos\FortunaFirstBank\FortunaFirstBank\obj\Debug\net7.0\ref\FortunaFirstBank.dll

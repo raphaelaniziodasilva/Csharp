@@ -1,0 +1,14 @@
+C:\Users\dtiDigital\Videos\Arrays\Arrays\bin\Debug\net7.0\Arrays.exe
+C:\Users\dtiDigital\Videos\Arrays\Arrays\bin\Debug\net7.0\Arrays.deps.json
+C:\Users\dtiDigital\Videos\Arrays\Arrays\bin\Debug\net7.0\Arrays.runtimeconfig.json
+C:\Users\dtiDigital\Videos\Arrays\Arrays\bin\Debug\net7.0\Arrays.dll
+C:\Users\dtiDigital\Videos\Arrays\Arrays\bin\Debug\net7.0\Arrays.pdb
+C:\Users\dtiDigital\Videos\Arrays\Arrays\obj\Debug\net7.0\Arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dtiDigital\Videos\Arrays\Arrays\obj\Debug\net7.0\Arrays.AssemblyInfoInputs.cache
+C:\Users\dtiDigital\Videos\Arrays\Arrays\obj\Debug\net7.0\Arrays.AssemblyInfo.cs
+C:\Users\dtiDigital\Videos\Arrays\Arrays\obj\Debug\net7.0\Arrays.csproj.CoreCompileInputs.cache
+C:\Users\dtiDigital\Videos\Arrays\Arrays\obj\Debug\net7.0\Arrays.dll
+C:\Users\dtiDigital\Videos\Arrays\Arrays\obj\Debug\net7.0\refint\Arrays.dll
+C:\Users\dtiDigital\Videos\Arrays\Arrays\obj\Debug\net7.0\Arrays.pdb
+C:\Users\dtiDigital\Videos\Arrays\Arrays\obj\Debug\net7.0\Arrays.genruntimeconfig.cache
+C:\Users\dtiDigital\Videos\Arrays\Arrays\obj\Debug\net7.0\ref\Arrays.dll

@@ -1,0 +1,14 @@
+C:\Users\dtiDigital\Videos\ListExercise\ListExercise\bin\Debug\net7.0\ListExercise.exe
+C:\Users\dtiDigital\Videos\ListExercise\ListExercise\bin\Debug\net7.0\ListExercise.deps.json
+C:\Users\dtiDigital\Videos\ListExercise\ListExercise\bin\Debug\net7.0\ListExercise.runtimeconfig.json
+C:\Users\dtiDigital\Videos\ListExercise\ListExercise\bin\Debug\net7.0\ListExercise.dll
+C:\Users\dtiDigital\Videos\ListExercise\ListExercise\bin\Debug\net7.0\ListExercise.pdb
+C:\Users\dtiDigital\Videos\ListExercise\ListExercise\obj\Debug\net7.0\ListExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dtiDigital\Videos\ListExercise\ListExercise\obj\Debug\net7.0\ListExercise.AssemblyInfoInputs.cache
+C:\Users\dtiDigital\Videos\ListExercise\ListExercise\obj\Debug\net7.0\ListExercise.AssemblyInfo.cs
+C:\Users\dtiDigital\Videos\ListExercise\ListExercise\obj\Debug\net7.0\ListExercise.csproj.CoreCompileInputs.cache
+C:\Users\dtiDigital\Videos\ListExercise\ListExercise\obj\Debug\net7.0\ListExercise.dll
+C:\Users\dtiDigital\Videos\ListExercise\ListExercise\obj\Debug\net7.0\refint\ListExercise.dll
+C:\Users\dtiDigital\Videos\ListExercise\ListExercise\obj\Debug\net7.0\ListExercise.pdb
+C:\Users\dtiDigital\Videos\ListExercise\ListExercise\obj\Debug\net7.0\ListExercise.genruntimeconfig.cache
+C:\Users\dtiDigital\Videos\ListExercise\ListExercise\obj\Debug\net7.0\ref\ListExercise.dll

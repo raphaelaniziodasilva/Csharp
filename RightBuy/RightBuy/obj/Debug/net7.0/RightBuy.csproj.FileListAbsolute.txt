@@ -1,0 +1,14 @@
+C:\Users\dtiDigital\Videos\RightBuy\RightBuy\bin\Debug\net7.0\RightBuy.exe
+C:\Users\dtiDigital\Videos\RightBuy\RightBuy\bin\Debug\net7.0\RightBuy.deps.json
+C:\Users\dtiDigital\Videos\RightBuy\RightBuy\bin\Debug\net7.0\RightBuy.runtimeconfig.json
+C:\Users\dtiDigital\Videos\RightBuy\RightBuy\bin\Debug\net7.0\RightBuy.dll
+C:\Users\dtiDigital\Videos\RightBuy\RightBuy\bin\Debug\net7.0\RightBuy.pdb
+C:\Users\dtiDigital\Videos\RightBuy\RightBuy\obj\Debug\net7.0\RightBuy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dtiDigital\Videos\RightBuy\RightBuy\obj\Debug\net7.0\RightBuy.AssemblyInfoInputs.cache
+C:\Users\dtiDigital\Videos\RightBuy\RightBuy\obj\Debug\net7.0\RightBuy.AssemblyInfo.cs
+C:\Users\dtiDigital\Videos\RightBuy\RightBuy\obj\Debug\net7.0\RightBuy.csproj.CoreCompileInputs.cache
+C:\Users\dtiDigital\Videos\RightBuy\RightBuy\obj\Debug\net7.0\RightBuy.dll
+C:\Users\dtiDigital\Videos\RightBuy\RightBuy\obj\Debug\net7.0\refint\RightBuy.dll
+C:\Users\dtiDigital\Videos\RightBuy\RightBuy\obj\Debug\net7.0\RightBuy.pdb
+C:\Users\dtiDigital\Videos\RightBuy\RightBuy\obj\Debug\net7.0\RightBuy.genruntimeconfig.cache
+C:\Users\dtiDigital\Videos\RightBuy\RightBuy\obj\Debug\net7.0\ref\RightBuy.dll

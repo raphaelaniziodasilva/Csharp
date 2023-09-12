@@ -1,0 +1,14 @@
+C:\Users\dtiDigital\Videos\AluguelQuartos\AluguelQuartos\bin\Debug\net7.0\AluguelQuartos.exe
+C:\Users\dtiDigital\Videos\AluguelQuartos\AluguelQuartos\bin\Debug\net7.0\AluguelQuartos.deps.json
+C:\Users\dtiDigital\Videos\AluguelQuartos\AluguelQuartos\bin\Debug\net7.0\AluguelQuartos.runtimeconfig.json
+C:\Users\dtiDigital\Videos\AluguelQuartos\AluguelQuartos\bin\Debug\net7.0\AluguelQuartos.dll
+C:\Users\dtiDigital\Videos\AluguelQuartos\AluguelQuartos\bin\Debug\net7.0\AluguelQuartos.pdb
+C:\Users\dtiDigital\Videos\AluguelQuartos\AluguelQuartos\obj\Debug\net7.0\AluguelQuartos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dtiDigital\Videos\AluguelQuartos\AluguelQuartos\obj\Debug\net7.0\AluguelQuartos.AssemblyInfoInputs.cache
+C:\Users\dtiDigital\Videos\AluguelQuartos\AluguelQuartos\obj\Debug\net7.0\AluguelQuartos.AssemblyInfo.cs
+C:\Users\dtiDigital\Videos\AluguelQuartos\AluguelQuartos\obj\Debug\net7.0\AluguelQuartos.csproj.CoreCompileInputs.cache
+C:\Users\dtiDigital\Videos\AluguelQuartos\AluguelQuartos\obj\Debug\net7.0\AluguelQuartos.dll
+C:\Users\dtiDigital\Videos\AluguelQuartos\AluguelQuartos\obj\Debug\net7.0\refint\AluguelQuartos.dll
+C:\Users\dtiDigital\Videos\AluguelQuartos\AluguelQuartos\obj\Debug\net7.0\AluguelQuartos.pdb
+C:\Users\dtiDigital\Videos\AluguelQuartos\AluguelQuartos\obj\Debug\net7.0\AluguelQuartos.genruntimeconfig.cache
+C:\Users\dtiDigital\Videos\AluguelQuartos\AluguelQuartos\obj\Debug\net7.0\ref\AluguelQuartos.dll

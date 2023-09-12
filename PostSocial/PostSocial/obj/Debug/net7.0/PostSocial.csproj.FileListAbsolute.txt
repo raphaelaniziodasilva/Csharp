@@ -1,0 +1,14 @@
+C:\Users\dtiDigital\Videos\PostSocial\PostSocial\bin\Debug\net7.0\PostSocial.exe
+C:\Users\dtiDigital\Videos\PostSocial\PostSocial\bin\Debug\net7.0\PostSocial.deps.json
+C:\Users\dtiDigital\Videos\PostSocial\PostSocial\bin\Debug\net7.0\PostSocial.runtimeconfig.json
+C:\Users\dtiDigital\Videos\PostSocial\PostSocial\bin\Debug\net7.0\PostSocial.dll
+C:\Users\dtiDigital\Videos\PostSocial\PostSocial\bin\Debug\net7.0\PostSocial.pdb
+C:\Users\dtiDigital\Videos\PostSocial\PostSocial\obj\Debug\net7.0\PostSocial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dtiDigital\Videos\PostSocial\PostSocial\obj\Debug\net7.0\PostSocial.AssemblyInfoInputs.cache
+C:\Users\dtiDigital\Videos\PostSocial\PostSocial\obj\Debug\net7.0\PostSocial.AssemblyInfo.cs
+C:\Users\dtiDigital\Videos\PostSocial\PostSocial\obj\Debug\net7.0\PostSocial.csproj.CoreCompileInputs.cache
+C:\Users\dtiDigital\Videos\PostSocial\PostSocial\obj\Debug\net7.0\PostSocial.dll
+C:\Users\dtiDigital\Videos\PostSocial\PostSocial\obj\Debug\net7.0\refint\PostSocial.dll
+C:\Users\dtiDigital\Videos\PostSocial\PostSocial\obj\Debug\net7.0\PostSocial.pdb
+C:\Users\dtiDigital\Videos\PostSocial\PostSocial\obj\Debug\net7.0\PostSocial.genruntimeconfig.cache
+C:\Users\dtiDigital\Videos\PostSocial\PostSocial\obj\Debug\net7.0\ref\PostSocial.dll
